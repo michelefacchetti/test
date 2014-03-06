@@ -21,6 +21,7 @@
 		D06B75CA18C8B3C300D500F7 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D06B75AC18C8B3C200D500F7 /* UIKit.framework */; };
 		D06B75D218C8B3C300D500F7 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = D06B75D018C8B3C300D500F7 /* InfoPlist.strings */; };
 		D06B75D418C8B3C300D500F7 /* EsempioUtilizzoGitTests.m in Sources */ = {isa = PBXBuildFile; fileRef = D06B75D318C8B3C300D500F7 /* EsempioUtilizzoGitTests.m */; };
+		D06B75DF18C8B97600D500F7 /* MapForIenerary.m in Sources */ = {isa = PBXBuildFile; fileRef = D06B75DE18C8B97600D500F7 /* MapForIenerary.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -53,6 +54,8 @@
 		D06B75CF18C8B3C300D500F7 /* EsempioUtilizzoGitTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "EsempioUtilizzoGitTests-Info.plist"; sourceTree = "<group>"; };
 		D06B75D118C8B3C300D500F7 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		D06B75D318C8B3C300D500F7 /* EsempioUtilizzoGitTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = EsempioUtilizzoGitTests.m; sourceTree = "<group>"; };
+		D06B75DD18C8B97600D500F7 /* MapForIenerary.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MapForIenerary.h; sourceTree = "<group>"; };
+		D06B75DE18C8B97600D500F7 /* MapForIenerary.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MapForIenerary.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -116,6 +119,8 @@
 				D06B75B818C8B3C200D500F7 /* AppDelegate.m */,
 				D06B75BA18C8B3C200D500F7 /* Main.storyboard */,
 				D06B75BD18C8B3C200D500F7 /* ViewController.h */,
+				D06B75DD18C8B97600D500F7 /* MapForIenerary.h */,
+				D06B75DE18C8B97600D500F7 /* MapForIenerary.m */,
 				D06B75BE18C8B3C200D500F7 /* ViewController.m */,
 				D06B75C018C8B3C200D500F7 /* Images.xcassets */,
 				D06B75AF18C8B3C200D500F7 /* Supporting Files */,
@@ -252,6 +257,7 @@
 				D06B75BF18C8B3C200D500F7 /* ViewController.m in Sources */,
 				D06B75B918C8B3C200D500F7 /* AppDelegate.m in Sources */,
 				D06B75B518C8B3C200D500F7 /* main.m in Sources */,
+				D06B75DF18C8B97600D500F7 /* MapForIenerary.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
